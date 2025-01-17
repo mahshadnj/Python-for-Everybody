@@ -1,2 +1,4 @@
-# the homework was as easy as printing Helloworld
-# so I will just put those assignments which are useful
+''' The Chapter 1 homework was as easy as printing
+Hello world so I will just put those assignments
+which are useful and not the easy ones
+'''
